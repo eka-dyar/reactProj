@@ -1,4 +1,5 @@
 # reactProj
+d-1
 install Chocolaty
 	install nodejs, python2, jdk8
 install android studio + sdk + avd(emulator)
